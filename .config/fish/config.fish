@@ -1,7 +1,5 @@
 alias ss='doas dnf install -y'
 alias rr='doas dnf remove -y'
-alias aa='dnf search'
-alias m='doas micro'
 alias l='ls -a'
 alias upd='doas dnf update -y && doas dnf upgrade -y && flatpak update -y'
 alias c='clear'
